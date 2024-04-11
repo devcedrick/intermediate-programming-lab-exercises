@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1712808676 source:c:\users\hp\desktop\bscs 1 (2nd semester)\intermediate programming (lab)\laboratory 7\day of the week [jimeno]\daytype.cpp
+	<string>
+	<iostream>
+	"day.h"
+
+1712808356 c:\users\hp\desktop\bscs 1 (2nd semester)\intermediate programming (lab)\laboratory 7\day of the week [jimeno]\day.h
+
+1712814945 source:c:\users\hp\desktop\bscs 1 (2nd semester)\intermediate programming (lab)\laboratory 7\day of the week [jimeno]\main.cpp
+	<iostream>
+	<string>
+	"day.h"
+
+1712814982 source:c:\users\hp\desktop\bscs 1 (2nd semester)\intermediate programming (lab)\laboratory 7\day of the week [jimeno]\daytypeimp.cpp
+	<string>
+	<iostream>
+	"day.h"
+
