@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1717110248 source:c:\users\room203-00\desktop\finallabexam_jimeno\final_lab_exam\main.cpp
+	<iostream>
+	"rpgChar.h"
+	"archer.h"
+	"barbarian.h"
+	"knight.h"
+
+1717109787 source:c:\users\room203-00\desktop\finallabexam_jimeno\final_lab_exam\rrgcharacterimp.cpp
+	"rpgChar.h"
+
+1717109795 c:\users\room203-00\desktop\finallabexam_jimeno\final_lab_exam\rpgchar.h
+	<ctime>
+	<cstdlib>
+	<string>
+
+1717109729 source:c:\users\room203-00\desktop\finallabexam_jimeno\final_lab_exam\archer.cpp
+	"archer.h"
+
+1717109470 c:\users\room203-00\desktop\finallabexam_jimeno\final_lab_exam\archer.h
+	"rpgChar.h"
+
+1717109720 source:c:\users\room203-00\desktop\finallabexam_jimeno\final_lab_exam\barbarianimp.cpp
+	"barbarian.h"
+
+1717109470 c:\users\room203-00\desktop\finallabexam_jimeno\final_lab_exam\barbarian.h
+	"rpgChar.h"
+
+1717110335 source:c:\users\room203-00\desktop\finallabexam_jimeno\final_lab_exam\knightimp.cpp
+	"knight.h"
+
+1717109518 c:\users\room203-00\desktop\finallabexam_jimeno\final_lab_exam\knight.h
+	"rpgChar.h"
+
